@@ -1,0 +1,105 @@
+.head1 {
+  border-style: solid;
+  text-align: center;
+  background-color: rgb(193, 253, 240);
+  color: #000000;
+  font-size: xx-large;
+  font-style: intial;
+  font-family: cursive;
+  outline: solid;
+}
+
+.topbutton {
+  color: white;
+  font-size: medium;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  float: center;
+  margin: auto;
+  width: auto;
+  margin-bottom: 2px;
+  padding: 10px;
+  border-radius: 8px;
+  border-color: white;
+  background-color: blue;
+}
+.topbutton:hover {
+  background-color: rgb(2, 0, 126);
+  zoom: 140%;
+}
+button:hover {
+  background-color:green;
+  zoom: 120%;
+}
+nav {
+  border: solid;
+  background-color: lightskyblue;
+}
+.subjectName {
+  background-color: rgb(55, 148, 148);
+  padding: 5px;
+  border-radius: 1px;
+  color: white;
+}
+
+.left {
+  width: 18%;
+  float: left;
+  height: 77%;
+  outline-style: solid;
+  text-align: center;
+  background-color: wheat;
+  bottom: 10px;
+}
+.topic {
+  background-color: tan;
+}
+.topicn {
+  margin-top: 67%;
+  background-color: gainsboro;
+  padding: 6%;
+}
+.body {
+  width: 80%;
+  float: right;
+  background-color: pink;
+  padding: 5px;
+  background-color: lightcyan;
+  border: solid;
+  border-radius: 3px;
+}
+.body2 {
+  width: 82%;
+}
+h2 {
+  background-color: rgb(81, 173, 173);
+  background-position: center;
+  text-align: center;
+  border-radius: 3px;
+}
+h2:hover {
+  background-color: rgb(0, 75, 65);
+  zoom: 125%;
+  color: white;
+}
+.layout {
+  margin-top: auto;
+}
+.right {
+  width: 20%;
+  float: right;
+  height: 52%;
+  outline-style: solid;
+  /* border-bottom: solid; */
+  bottom: 10px;
+  background-color: rgb(235, 205, 151);
+}
+.feedbackaboutwebsite {
+  background-color: lightgrey;
+}
+.bottombutton {
+  background-color: rgb(8, 86, 158);
+  color: white;
+  padding: 8px;
+  border-radius: 5%;
+
+}
